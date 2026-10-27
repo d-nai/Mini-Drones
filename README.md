@@ -8,3 +8,4 @@ Plataformas de vuelo de tamaño reducido, con protectores de hélices, programad
 
 ### Propósito
 
+asdfas
