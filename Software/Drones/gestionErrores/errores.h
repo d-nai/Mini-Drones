@@ -1,5 +1,5 @@
-#ifndef ERRORES.h
-#define ERRORES.h
+#ifndef ERRORES_H
+#define ERRORES_H
 
 
 #endif

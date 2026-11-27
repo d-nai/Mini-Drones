@@ -1,5 +1,5 @@
-#ifndef SENSORES.h
-#define SENSORES.h
+#ifndef SENSORES_H
+#define SENSORES_H
 
 
 
