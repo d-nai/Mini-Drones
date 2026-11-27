@@ -1,0 +1,5 @@
+#ifndef COMUNICACIONES_H
+#define COMUNICACIONES_H
+
+
+#endif
