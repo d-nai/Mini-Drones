@@ -6,7 +6,10 @@
 #include <Arduino.h>
 #include <Wire.h>
 
-int pinHelice1; int pinHelice2; int pinHelice3; int pinHelice4;
+#define pinHelice1 3
+#define pinHelice2 4
+#define pinHelice3 5
+#define pinHelice4 6
 
 
 
@@ -18,5 +21,5 @@ void setup(){
 }
 
 void loop(){
-
+    leerMPU();
 }
