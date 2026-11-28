@@ -4,4 +4,6 @@
 void iniciarMPU();
 void leerMPU();
 
+void estimarRotacion();
+
 #endif

@@ -22,4 +22,6 @@ void setup(){
 
 void loop(){
     leerMPU();
+
+    estimarRotacion();
 }
